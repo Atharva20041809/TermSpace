@@ -2,7 +2,6 @@
 
 A minimal terminal dashboard for Google Workspace, built on top of [gogcli](https://github.com/openclaw/gogcli). Browse your unread Gmail, check today's calendar, and skim recent Drive files — all from a keyboard-driven menu in your terminal. Send an email or add a calendar event without ever opening a browser.
 
-> Rename freely — swap "Termspace" for whatever you're calling the project.
 
 ## Why
 
