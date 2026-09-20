@@ -81,6 +81,4 @@ node index.js
 - [Node.js](https://nodejs.org/)
 - [gogcli](https://github.com/openclaw/gogcli) — Google Workspace CLI
 
-## License
 
-MIT
